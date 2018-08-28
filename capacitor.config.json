@@ -1,6 +1,6 @@
 {
-  "appId": "com.joshmorony.mapsexample",
-  "appName": "GMaps",
+  "appId": "com.example.gmap",
+  "appName": "gmap",
   "bundledWebRuntime": false,
   "webDir": "www"
 }
